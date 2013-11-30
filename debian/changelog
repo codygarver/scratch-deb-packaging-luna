@@ -1,5 +1,17 @@
-scratch-text-editor (2.0) UNRELEASED; urgency=low
+scratch-text-editor (2.0.2) precise; urgency=low
 
-  * Initial release.
+  * New upstream release.
 
- -- Mario Guerriero <mefrio.g@gmail.com>  Wed, 27 Jul 2011 20:45:00 +0200
+ -- Cody Garver <cody@elementaryos.org>  Sat, 30 Nov 2013 03:24:29 -0600
+
+scratch-text-editor (2.0.1) precise; urgency=low
+
+  * New upstream release.
+
+ -- Mario Guerriero <mefrio.g@gmail.com>  Sat, 10 Sep 2013 10:23:01 +0200
+
+scratch-text-editor (2.0) precise; urgency=low
+
+  * New upstream release.
+
+ -- Mario Guerriero <mefrio.g@gmail.com>  Thu, 6 Jun 2013 20:45:00 +0200
